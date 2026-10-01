@@ -51,6 +51,8 @@
 //   console.log(`Server is running on port ${PORT}`);
 // });
 
+// Email Sender with OTP Verification System
+
 import express from "express";
 import dotenv from "dotenv";
 import nodemailer from "nodemailer";
